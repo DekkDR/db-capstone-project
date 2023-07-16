@@ -1,1 +1,4 @@
-Setting up repository for project		
+Please check Readme.pdf for the project implementation.
+
+
+	
