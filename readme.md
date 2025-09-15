@@ -1,4 +1,4 @@
-Please check Readme.pdf for the project implementation.
+<embed src="ReadMe.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 	
